@@ -20,4 +20,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
+//Happy Hacking!
+
+-Hacktoberfest2018//
+
 (this file was partially copied from [awesome-speaking](https://github.com/matteofigus/awesome-speaking))
